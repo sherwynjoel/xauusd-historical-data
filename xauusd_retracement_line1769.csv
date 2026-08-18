@@ -1,0 +1,14 @@
+analysis,event,price,timestamp_utc,move_usd,move_points,move_pct,elapsed
+reference,line_1769_daily_open,1652.765,2022-10-26 00:00,,,,
+major_swing,swing_high,1674.834,2022-10-26 09:02,+22.069,+2207,+1.34% from open,9h 02m from open
+major_swing,lowest_point,1616.624,2022-11-03 11:42,-58.210,-5821,-3.48% from high,8d 02h 40m from high
+major_swing,drop_from_open,,,-36.141,-3614,-2.19% from open,
+major_swing,retracement_required_to_open,1652.765,,+36.141,+3614,+2.236% rise from low,
+major_swing,retracement_required_to_high,1674.834,,+58.210,+5821,+3.601% rise from low,
+major_swing,back_at_open,1652.765,2022-11-04 11:09,,,,23h 27m after low
+major_swing,back_at_high,1674.834,2022-11-04 14:42,,,,1d 03h 00m after low
+fibonacci_of_drop,fib_38.2_pct,1638.86,,,,,
+fibonacci_of_drop,fib_50_pct,1645.73,,,,,
+fibonacci_of_drop,fib_61.8_pct,1652.60,,,,line-1769 open sits at the 61.8% level
+immediate_dip,first_300pt_drop_low,1649.733,2022-10-26 01:06,-3.032,-303,-0.18% from open,1h 06m from open
+immediate_dip,back_at_open,1652.765,2022-10-26 01:15,+3.032,+303,+0.184% rise from low,9m after low
