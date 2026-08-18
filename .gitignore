@@ -1,0 +1,4 @@
+# exceeds GitHub's 100 MB file limit — regenerate from the parquet (see README)
+xauusd_m1_full.csv
+xauusd_m1_test.csv
+__pycache__/
