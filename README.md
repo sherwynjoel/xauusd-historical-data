@@ -1,7 +1,9 @@
 # XAUUSD Historical Data
 
 XAUUSD (Gold vs USD) 1-minute historical data pipeline and analysis tools.
-Data source: Exness MT5 (`XAUUSDm`), May 2017 → August 2026, 3.27M bars.
+Data source: Exness MT5 (`XAUUSDm`), 28 April 2017 → August 2026, 3,276,127 bars.
+Every row is a genuine 1-minute candle (sparse pre-M1 rows before 2017-04-28
+have been removed).
 
 ## Files
 
