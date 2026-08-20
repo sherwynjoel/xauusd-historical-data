@@ -33,5 +33,6 @@ Requires Windows, a logged-in MetaTrader 5 terminal, and `pip install MetaTrader
 python fetch_xauusd_m1.py --symbol XAUUSDm --start 2017-01-01 --out xauusd_m1_full.parquet
 ```
 
-Timestamps are Exness server time (UTC-labelled). Continuous minute coverage
-starts May 2017; earlier months are sparse and excluded from analysis.
+Timestamps are Exness server time (UTC-labelled). The dataset starts
+2017-04-28, the first date with full minute coverage; a re-fetch will
+re-download the sparse earlier rows, so re-trim if you refresh.
